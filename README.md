@@ -1,5 +1,7 @@
 ## Olá! Eu sou o Ryan ! 🖐️
 
+Sou um estudante de programação aprendendo cada dai mais.
+
 ![Ryan GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanlimap&show_icons=true&theme=radical&count_private=true)
 
 ## Tecnologias que tenho conhecimento
@@ -11,7 +13,5 @@
   <img align="center" alt="css" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 
 </div><br/>
-
-Sou um estudante de programação aprendendo cada dia mais.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanlimap&layout=compact)
