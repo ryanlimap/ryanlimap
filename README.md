@@ -1,4 +1,4 @@
-## Olá! Eu sou o Ryan ! 🖐️
+## Olá! Eu sou o Ryan 🖐️
 
 Sou um estudante de programação do IFES aprendendo cada dia mais.
 
