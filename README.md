@@ -4,6 +4,17 @@ Sou um estudante de programação do IFES aprendendo cada dia mais.
 
 ![Ryan GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanlimap&show_icons=true&theme=radical&count_private=true)
 
+## Vamos se conectar?
+
+A seguir tem alguns lugares onde você me encontrar!
+
+<div style="display: inline_block">
+  <img align="center" alt="html5" src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)"/>
+
+  Discord: tremastro7
+
+</div><br/>
+
 ## Tecnologias que tenho conhecimento
 
 <div style="display: inline_block">
