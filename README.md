@@ -6,7 +6,7 @@ Sou um estudante de programação do IFES aprendendo cada dia mais.
 
 ## Vamos se conectar?
 
-A seguir tem alguns lugares onde você me encontrar!
+A seguir tem alguns lugares onde você pode me encontrar!
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/> Discord: tremastro7
