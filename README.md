@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Ryan 🖐️
 
-Sou um estudante de programação do IFES aprendendo cada dia mais.
+Sou um estudante de Sistemas de Informação do IFES aprendendo cada dia mais.
 
 ![Ryan GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanlimap&show_icons=true&theme=radical&count_private=true)
 
