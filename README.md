@@ -2,8 +2,6 @@
 
 Sou um estudante de Sistemas de Informação do IFES aprendendo cada dia mais.
 
-![Ryan GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanlimap&show_icons=true&theme=radical&count_private=true)
-
 ## Vamos se conectar?
 
 A seguir tem alguns lugares onde você pode me encontrar!
@@ -26,5 +24,6 @@ A seguir tem alguns lugares onde você pode me encontrar!
   <img align="center" alt="css" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img align="center" alt+"css" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   <img align="center" alt+"css" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
+  <img align="center" alt+"css" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
 
 </div><br/>
